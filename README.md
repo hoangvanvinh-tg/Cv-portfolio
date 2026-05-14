@@ -5,7 +5,8 @@ công cụ AI sử dụng: Chatjpt, Bing
 Chatjpt: viết prompt và chỉnh sửa
 
 Bing: tạo ảnh 3D
-
+---
+---
 Bước 1:
 
 Mở chatjpt: viết prompt:hãy tạo cho tôi một portfolio đơn giản bao gồm Html + csss. Giao diện white, có nút thay đổi theme ở đầu trang. Thông tin cá nhân: Hoàng Văn Vinh. Tagline: “Thiết kế trải nghiệm đơn giản, hiệu quả và có cảm xúc”. Một chút về tôi: Là sinh viên trường GDU, hiện đang học nghành CNNT - Đồ Họa Kỹ Thuật Số. Tôi đang tập trung vào một dự án thiết kế UI/UX . Kỹ năng tích lũy: Design (Figma, Photoshop, AI). Dự án: Thiết kế Bookmark, thiết kế mô hình 3D, tại phần này tôi muốn bạn tạo ra album ảnh để trưng bày sản phẩm hay dự án. Sở thích của tôi là nghe nhạc, chơi game và đi dạo. Liên hệ tôi: email (hoangvanvinh8464@gmail.com), thêm nút "Hire me". Hãy tạo cho tôi một bộ prompt để argent có thể thiết kế ra website như vậy.
@@ -174,7 +175,7 @@ Generate a complete portfolio website ready to open locally:
 * style.css
 
 Design must look like a modern UI/UX student portfolio inspired by a professional resume layout.
-
+---
 ---
 Bước 2:
 
@@ -413,7 +414,7 @@ Generate a complete portfolio website ready to open locally:
 * style.css
 
 Design must look like a modern UI/UX student portfolio inspired by a professional resume layout with orange-yellow glowing aesthetic and elegant sparkle effects.
-
+---
 ---
 Bước 3: 
 
@@ -421,14 +422,14 @@ Sau khi có prompt, đưa vào Github. Github sẽ tạo ra một trang UI/UX. s
 Có thể chỉnh sửa trực tiếp trong Github hoặc vào chatjpt viết bộ prompt cần chỉnh sửa gì rồi đưa bộ prompt đó vào phần chat trong Github.
 
 ---
-
+---
 Bước 4:
 
 Thêm ảnh.
 có thể sử dụng những bức ảnh có sẵn hoặc có thể tạo ảnh theo ý của mình qua các công cụ tạo ảnh bằng AI như: bing,genmimi...
 những bức ảnh sử dụng: ảnh chụp bản thân làm avarta, ảnh do 3D do Bing tạo, ảnh logo tự thiết kế.
 
-
+---
 ---
 Bước 5:
 
