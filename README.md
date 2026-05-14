@@ -1,3 +1,5 @@
+HOÀNG VĂN VINH _ PORTFOLIO
+
 công cụ AI sử dụng: Chatjpt, Bing
 
 Chatjpt: viết prompt và chỉnh sửa
@@ -173,8 +175,7 @@ Generate a complete portfolio website ready to open locally:
 
 Design must look like a modern UI/UX student portfolio inspired by a professional resume layout.
 
-
-
+---
 Bước 2:
 
 E thấy prompt sau khi tạo ra nó ko đc đẹp, e vô chat và kêu nó sửa lại như này: dữ nguyên bộ prompt này, chỉ đổi màu thành màu: cam, vàng, trắng cam và thêm hiệu ứng lấp lánh cho các màu.
@@ -413,15 +414,13 @@ Generate a complete portfolio website ready to open locally:
 
 Design must look like a modern UI/UX student portfolio inspired by a professional resume layout with orange-yellow glowing aesthetic and elegant sparkle effects.
 
-
-
-
+---
 Bước 3: 
 
 Sau khi có prompt, đưa vào Github. Github sẽ tạo ra một trang UI/UX. sau khi tạo xong ta sẽ chỉnh sửa lại những gì còn thiếu và thay đổi theo những gì mà ta muốn.
 Có thể chỉnh sửa trực tiếp trong Github hoặc vào chatjpt viết bộ prompt cần chỉnh sửa gì rồi đưa bộ prompt đó vào phần chat trong Github.
 
-
+---
 
 Bước 4:
 
@@ -430,7 +429,7 @@ có thể sử dụng những bức ảnh có sẵn hoặc có thể tạo ảnh
 những bức ảnh sử dụng: ảnh chụp bản thân làm avarta, ảnh do 3D do Bing tạo, ảnh logo tự thiết kế.
 
 
-
+---
 Bước 5:
 
 Quá trình chỉnh sửa.
